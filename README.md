@@ -1,2 +1,2 @@
-# deep_leaning
-records of deep learing
+# deep_learning
+records of deep learning
